@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [NekoBox-1.4.2-arm64-v8a](./NekoBox-1.4.2-arm64-v8a)
+- [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [v2rayNG_2.1.5-fdroid_arm64-v8a](./v2rayNG_2.1.5-fdroid_arm64-v8a)
 
 ---
