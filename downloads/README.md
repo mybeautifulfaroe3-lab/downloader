@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [Hiddify-Android-universal](./Hiddify-Android-universal)
 - [Hiddify-Android-x86_64](./Hiddify-Android-x86_64)
 - [Hiddify-Windows-Setup-x64](./Hiddify-Windows-Setup-x64)
 - [MahsaNG_15_arm64-v8a](./MahsaNG_15_arm64-v8a)
