@@ -7,6 +7,7 @@
 - [Invizible_Pro__beta_ver.2.6.8](./Invizible_Pro__beta_ver.2.6.8)
 - [MahsaNG_15_arm64-v8a](./MahsaNG_15_arm64-v8a)
 - [NekoBox-1.4.2-arm64-v8a](./NekoBox-1.4.2-arm64-v8a)
+- [details](./details)
 - [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [v2rayNG_2.1.5-fdroid_arm64-v8a](./v2rayNG_2.1.5-fdroid_arm64-v8a)
 
