@@ -7,6 +7,7 @@
 - [Invizible_Pro__beta_ver.2.6.8](./Invizible_Pro__beta_ver.2.6.8)
 - [MahsaNG_15_arm64-v8a](./MahsaNG_15_arm64-v8a)
 - [NekoBox-1.4.2-arm64-v8a](./NekoBox-1.4.2-arm64-v8a)
+- [SecureDNSClientPortable_v3.3.3_x64](./SecureDNSClientPortable_v3.3.3_x64)
 - [app](./app)
 - [details](./details)
 - [intra](./intra)
