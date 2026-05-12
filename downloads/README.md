@@ -11,6 +11,7 @@
 - [app](./app)
 - [details](./details)
 - [intra](./intra)
+- [mhrv-rs-android-arm64-v8a-v1.4.0](./mhrv-rs-android-arm64-v8a-v1.4.0)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [v2rayNG_2.1.5-fdroid_arm64-v8a](./v2rayNG_2.1.5-fdroid_arm64-v8a)
