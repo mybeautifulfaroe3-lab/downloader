@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `Hiddify-Windows-Setup-x64.Msix` |
 | **URL** | https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix |
-| **Date** | 2026-05-07 01:19:06 UTC |
+| **Date** | 2026-05-13 14:43:41 UTC |
 | **Status** | **FAILED** |
 
 ---
