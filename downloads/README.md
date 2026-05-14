@@ -10,6 +10,7 @@
 - [SecureDNSClientPortable_v3.3.3_x64](./SecureDNSClientPortable_v3.3.3_x64)
 - [app](./app)
 - [details](./details)
+- [euphoriahdr_web_trial](./euphoriahdr_web_trial)
 - [intra](./intra)
 - [mhrv-rs-android-arm64-v8a-v1.4.0](./mhrv-rs-android-arm64-v8a-v1.4.0)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
